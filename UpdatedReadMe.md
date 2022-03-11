@@ -8,10 +8,12 @@ Analysis and Challenges
 
 Analysis of Outcomes Based on Launch Date. 
 For this particular category, the most successful outcomes in theater occurred in May with a total of 111.  This is also when the most failures occurred with a total of 52. January saw the most canceled theater campaigns, which was seven. 
+
 ![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/100445222/157942611-27f1f92e-2434-4919-bad3-d9e37ec9d301.png)
 
 Analysis of Outcomes Based on Goals. 
 The greatest number of successful outcomes can be found in campaign goals of $1000-4999. This also contains the most failed outcomes, which at a total number of 534 projects makes this the most popular category for theater campaigns. while goals of $1000 or less only contain 141 successful outcomes, they have the highest percentage of success at 76% compared to a 24% rate of failure.
+
 ![Outcomes Based on Goals](https://user-images.githubusercontent.com/100445222/157942953-8974afe0-3da0-4b98-85f8-2eeb1de7a901.png)
 
 Challenges and Difficulties Encountered
